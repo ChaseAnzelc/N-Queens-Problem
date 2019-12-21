@@ -1,5 +1,5 @@
 # N Queens Problem
-N Queens Problem Solved With the Standard and 180 degree Symmetrical<br/>
+N Queens Problem Solved With the Standard and 180 degree Symmetrical<br/><br/>
 
 
 Video Showing 180 degree symmetrical solution <br/>  
