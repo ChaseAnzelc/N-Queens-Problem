@@ -1,6 +1,6 @@
 # N Queens Problem
-N Queens Problem Solved the Standard way<br/>
-Then solved with the 180 degree Symmetrical solution<br/><br/>
+N Queens Problem Solved the Standard way.<br/>
+Then solved with the 180 degree Symmetrical solution.<br/><br/>
 
 
 Video Showing normal solution without symmetical checking <br/>
