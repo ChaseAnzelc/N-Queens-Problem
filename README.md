@@ -15,13 +15,6 @@ To extend	the	N	queens problem,	we added more	constraints	to the solutions.	Ther
 <img src="/Images/queenspicture.png"></img>
 
 
-# Standard Solution
-
-Video Showing Standard solution without symmetical checking using RECURSION <br/>
-
-[Click for Video<img src="/Images/video.PNG"></img>](https://drive.google.com/open?id=1Z8BnPDcxuWxKBaJNCrkyse9JiwJZhE1s)
-
-
 # 180 Degree Symmetrical Solution
 
 Video Showing 180 degree symmetrical solution using RECURSION <br/>  
