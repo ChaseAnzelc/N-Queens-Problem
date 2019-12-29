@@ -12,7 +12,7 @@ To extend	the	N	queens problem,	we added more	constraints	to the solutions.	Ther
 
 # Example
 
-
+<img src="/Images/queenspicture.png"></img>
 
 
 # Standard Solution
