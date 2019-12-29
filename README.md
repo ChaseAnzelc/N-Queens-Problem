@@ -20,6 +20,6 @@ To extend	the	N	queens problem,	we added more	constraints	to the solutions.	Ther
 Video Showing 180 degree symmetrical solution using RECURSION <br/>  
 [I ran the Queens problem showing all the solutions the program was checking to find the 180 degree symmetrical solution up until I got to the 9 x 9 solution because Animating all posible solution is very time consuming, so I then switched to just showing the final solution]
 
-[Click for Video<img src="/Images/video.PNG"></img>](https://drive.google.com/open?id=1fDiWbPrgXrnhXMQddxV3GhHpuxnvjc62)
+[Click for Video<img src="/Images/queenssymmetrical.PNG"></img>](https://drive.google.com/open?id=1fDiWbPrgXrnhXMQddxV3GhHpuxnvjc62)
 
 
